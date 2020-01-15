@@ -5,7 +5,6 @@ title: "Projects"
 author_profile: true
 header:
   image: "/images/data.jpg"
-
 ---
 
 {% include base_path %}
