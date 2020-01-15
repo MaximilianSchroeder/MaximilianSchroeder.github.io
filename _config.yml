@@ -113,7 +113,7 @@ author:
   location         : "Frankfurt (GER)"
   email            : "m.sch.94.de@gmail.com"
   likendin         : "https://www.linkedin.com/in/maximilian-schröder-6231b8b5/"
-  github           :
+  github           : "MaximilianSchroeder"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -131,8 +131,8 @@ author:
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/MaximilianSchroeder"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://www.linkedin.com/in/maximilian-schröder-6231b8b5/"
+      icon: "fab fa-fw fa-linkedin"
+       url: "https://www.linkedin.com/in/maximilian-schröder-6231b8b5/"
 
 # Site Footer
 footer:
