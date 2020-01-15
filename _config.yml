@@ -130,7 +130,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/MaximilianSchroeder"
-    - label: "LinkedIn"
+    - label: "linkedin"
       icon: "fab fa-fw fa-linkedin"
        url: "https://www.linkedin.com/in/maximilian-schröder-6231b8b5/"
 
