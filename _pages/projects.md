@@ -1,9 +1,8 @@
 ---
 
 layout: archive
-permalink: /projects/
 title: "Projects"
-author_profile: true
+permalink: /projects/
 header:
 image: "/images/data.jpg"
 ---
