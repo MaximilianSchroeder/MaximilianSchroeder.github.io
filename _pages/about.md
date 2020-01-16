@@ -9,7 +9,14 @@ header:
 ---
 
 # Education
-<i class="fas fa-graduation-cap"></i> M.Sc. Economics<br/></p><small>University of Tuebingen, 2019</small>
+<pre>
+<i class="fas fa-graduation-cap"></i> M.Sc. Economics<br/><small>   University of Tuebingen, 2019</small>
+</pre>
 
 <i class="fas fa-graduation-cap"></i> B.Sc. Economics<br/>
 <small>University of Tuebingen, 2016</small>
+
+<i class="fas fa-graduation-cap"></i> Exchange Semester<br/>
+<small>Valparaiso University (IN), 2016</small>
+
+# Work Experience
