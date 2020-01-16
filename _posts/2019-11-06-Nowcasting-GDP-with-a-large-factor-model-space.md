@@ -5,6 +5,8 @@ tags: [Dynamic factor model, forecasting, GDP, mixed-frequency, model averaging,
 excerpt: "Dynamic factor model, forecasting, GDP, mixed-frequency, model averaging, time-varying-parameter"
 ---
 
+[get the PDF](/assets/pdfs/Bundesbank_Discussion_Paper.pdf) directly.
+
 # H1 heading
 
 ## H2 heading
