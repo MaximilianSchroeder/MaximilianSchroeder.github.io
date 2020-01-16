@@ -4,8 +4,8 @@ date: 2019-11-06
 tags: [Dynamic factor model, forecasting, GDP, mixed-frequency, model averaging, time-varying-parameter]
 excerpt: "Dynamic factor model, forecasting, GDP, mixed-frequency, model averaging, time-varying-parameter"
 ---
-[Sercan Eraslan](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2364853) and [Maximilian Schroeder](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3737565)
-
+[Sercan Eraslan](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2364853) and [Maximilian Schroeder](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3737565) and [Maximilian Schroeder](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3737565)
+[Bundesbank Discussion Paper 41/2019](https://www.bundesbank.de/de/bundesbank/forschung/forschungszentrum/diskussionspapiere)
 [PDF](/assets/pdfs/Bundesbank_Discussion_Paper.pdf)
 
 
