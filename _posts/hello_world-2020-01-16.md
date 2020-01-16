@@ -3,6 +3,7 @@ title: "Hello world"
 date: 2020-01-16
 tags: [setup, trial]
 excerpt: "Hello World"
+mathjax: "true"
 ---
 
 # H1 heading
