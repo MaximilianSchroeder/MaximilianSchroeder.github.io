@@ -9,9 +9,8 @@ header:
 ---
 
 # Education
-<pre>
-<i class="fas fa-graduation-cap"></i> M.Sc. Economics<br/><small>   University of Tuebingen, 2019</small>
-</pre>
+<i class="fas fa-graduation-cap"></i> M.Sc. Economics<br/><small>
+&nbsp; University of Tuebingen, 2019</small>
 
 <i class="fas fa-graduation-cap"></i> B.Sc. Economics<br/>
 <small>University of Tuebingen, 2016</small>
