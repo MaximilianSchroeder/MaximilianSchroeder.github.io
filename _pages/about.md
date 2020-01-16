@@ -9,4 +9,4 @@ header:
 ---
 
 # Education
-<i class="fas fa-graduation-cap"></i>
+<i class="fas fa-graduation-cap"></i> M.Sc. Economics<br/>
