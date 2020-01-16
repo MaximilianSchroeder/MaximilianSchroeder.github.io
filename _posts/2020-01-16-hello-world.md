@@ -28,7 +28,7 @@ a numbered list:
 2. Second item
 
 Python code block:
-```python
+`` python
   import numpy as np
 
   def test_function(x,y):
