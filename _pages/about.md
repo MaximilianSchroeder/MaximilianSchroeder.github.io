@@ -10,3 +10,4 @@ header:
 
 # Education
 <i class="fas fa-graduation-cap"></i> M.Sc. Economics<br/>
+<small>University of Tuebingen, 2019</small>
