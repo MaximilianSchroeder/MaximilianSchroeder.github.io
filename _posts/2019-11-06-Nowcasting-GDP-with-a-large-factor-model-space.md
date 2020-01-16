@@ -1,5 +1,5 @@
 ---
-title: "Nowcasting GDP with a large factor model space"
+title: "Nowcasting GDP with a large factor model space " [PDF](/assets/pdfs/Bundesbank_Discussion_Paper.pdf)
 date: 2019-11-06
 tags: [Dynamic factor model, forecasting, GDP, mixed-frequency, model averaging, time-varying-parameter]
 excerpt: "Dynamic factor model, forecasting, GDP, mixed-frequency, model averaging, time-varying-parameter"
