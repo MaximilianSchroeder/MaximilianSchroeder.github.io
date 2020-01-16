@@ -27,4 +27,4 @@ header:
 <small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Valparaiso University (IN), 2016</small>
 
 ### Work Experience
-<i class="fas fa-briefcase"></i>
+<i class="fas fa-briefcase"></i> Trainee - Monetary Policy Strategy <br/><small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; European Central Bank, 2019-2020</small>
