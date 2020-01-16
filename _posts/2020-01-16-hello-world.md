@@ -3,7 +3,6 @@ title: "Hello world"
 date: 2020-01-16
 tags: [setup, trial]
 excerpt: "Hello World"
-mathjax: "true"
 ---
 
 # H1 heading
@@ -28,10 +27,10 @@ a numbered list:
 2. Second item
 
 Python code block:
-`` python
+```python
   import numpy as np
 
   def test_function(x,y):
     z = np.sum(x,y)
     return z
-``
+```
