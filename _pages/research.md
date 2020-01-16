@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: categories
 title: "Research"
 permalink: /research/
 header:
