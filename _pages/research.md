@@ -3,5 +3,5 @@ layout: posts
 title: "Research"
 permalink: /research/
 header:
-  image: "/images/data.jpg"
+  image: assets/images/data.jpg
 ---
