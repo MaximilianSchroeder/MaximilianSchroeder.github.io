@@ -10,8 +10,8 @@ for Applied Economic Research as well as the Chair of Statistics, Econometrics a
 Quantitative Methods at the Univeristy of Tuebingen. My research interests include
 Macroeconometrics, Forecasting, and Monetary Policy.
 
-{% for category[Working Paper] in site.categories %}
-  <h3>{{ category[0] }}</h3>
+{% for category in site.categories %}
+  <h3>{{ category[Working Paper] }}</h3>
   <ul>
     {% for post in category[1] %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
