@@ -20,3 +20,14 @@ Macroeconometrics, Forecasting, and Monetary Policy.
       {% endif %}
   </ul>
 {% endfor %}
+
+{% for category in site.categories %}
+{% if category[0] == "Working Paper" %}
+  <h3>{{ category[0] }}</h3>
+  <ul>
+    {% for post in category[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+      {% endif %}
+  </ul>
+{% endfor %}
