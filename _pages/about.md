@@ -16,7 +16,7 @@ header:
 * Macroeconomic Uncertainty
 
 
-## Education
+# Education
 <i class="fas fa-graduation-cap"></i> M.Sc. Economics<br/><small>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Tuebingen, 2019</small>
 
@@ -26,7 +26,7 @@ header:
 <i class="fas fa-graduation-cap"></i> Exchange Semester<br/>
 <small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Valparaiso University (IN), 2016</small>
 
-### Work Experience
+# Work Experience
 <i class="fas fa-briefcase"></i> Trainee - Monetary Policy Strategy <br/><small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; European Central Bank, May 2019 - present</small>
 
 <i class="fas fa-briefcase"></i> Research Assistant  <br/><small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Institute for Applied Economic Research, Jan 2018 - Apr 2019</small>
@@ -43,5 +43,5 @@ header:
 
 <i class="fas fa-briefcase"></i> Intern  <br/><small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Institute for Applied Economic Research, Aug 2016 - Oct 2016</small>
 
-#### Training
+# Training
 <i class="fas graduation-cap"></i> Workshop on Forecasting - with Allan Timmerman <br/><small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Deutsche Bundesbank, 2017</small>
