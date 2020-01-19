@@ -42,3 +42,6 @@ header:
 <i class="fas fa-briefcase"></i> Research Assistant - Chair of Econometrics <br/><small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Tuebingen, Oct 2016 - Aug 2017</small>
 
 <i class="fas fa-briefcase"></i> Intern  <br/><small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Institute for Applied Economic Research, Aug 2016 - Oct 2016</small>
+
+#### Training
+<i class="fas graduation-cap"></i> Workshop on Forecasting - with Allan Timmerman <br/><small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Deutsche Bundesbank, 2017</small>
