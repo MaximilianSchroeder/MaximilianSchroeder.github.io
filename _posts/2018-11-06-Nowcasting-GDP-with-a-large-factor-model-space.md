@@ -1,6 +1,5 @@
 ---
 title: "Nowcasting GDP with a large factor model space"
-date: 2020-11-06
 tags: [Dynamic factor model, forecasting, GDP, mixed-frequency, model averaging, time-varying-parameter]
 excerpt: "Dynamic factor model, forecasting, GDP, mixed-frequency, model averaging, time-varying-parameter"
 categories: [Research Assistance]
