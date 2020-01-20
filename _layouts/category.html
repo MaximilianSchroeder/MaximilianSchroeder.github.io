@@ -5,9 +5,7 @@ layout: archive
 {{ content }}
 
 <div class="entries-{{ page.entries_layout }}">
+  {% if category[0] == "Working Paper" %}
   {% include posts-category.html taxonomy=page.taxonomy type=page.entries_layout %}
-</div>
-
-<div class="entries-{{ page.entries_layout }}">
-  {% include posts-category.html taxonomy=page.taxonomy type=page.entries_layout %}
+  {% endif %}
 </div>
