@@ -2,6 +2,7 @@
 title: " space"
 tags: [Dynamic factor model, forecasting, GDP, mixed-frequency, model averaging, time-varying-parameter]
 excerpt: "Dynamic factor model, forecasting, GDP, mixed-frequency, model averaging, time-varying-parameter"
+categories: [R]
 ---
 [Sercan Eraslan](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2364853) and [Maximilian Schroeder](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3737565)
 
