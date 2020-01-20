@@ -7,6 +7,7 @@ toc: true
 header:
   image: assets/images/road.jpg
 ---
+{% include sidebar.html %}
 # Interests
 * Macroeconometrics
 * Forecasting
