@@ -1,5 +1,5 @@
 ---
-layout: categories
+layout: categories_custom
 title: "Research"
 permalink: /research/
 header:
