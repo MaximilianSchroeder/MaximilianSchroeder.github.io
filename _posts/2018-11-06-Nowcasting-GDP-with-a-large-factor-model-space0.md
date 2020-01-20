@@ -1,5 +1,5 @@
 ---
-title: "pa"
+title: "a"
 tags: [Dynamic factor model, forecasting, GDP, mixed-frequency, model averaging, time-varying-parameter]
 excerpt: "Dynamic factor model, forecasting, GDP, mixed-frequency, model averaging, time-varying-parameter"
 categories: [Research Assistance]
