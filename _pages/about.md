@@ -5,7 +5,7 @@ permalink: /about/
 author_profile: true
 toc: true
 header:
-  image: assets/images/road.jpg
+  image: assets/images/night.jpg
 ---
 
 # Interests
