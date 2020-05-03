@@ -28,7 +28,9 @@ header:
 <small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Valparaiso University (IN), 2016</small>
 
 # Work Experience
-<i class="fas fa-briefcase"></i> Trainee - Monetary Policy Strategy <br/><small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; European Central Bank, May 2019 - present</small>
+<i class="fas fa-briefcase"></i> Research Analyst - Monetary Policy Strategy <br/><small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; European Central Bank, May 2020 - present</small>
+
+<i class="fas fa-briefcase"></i> Trainee - Monetary Policy Strategy <br/><small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; European Central Bank, May 2019 - April 2020</small>
 
 <i class="fas fa-briefcase"></i> Research Assistant  <br/><small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Institute for Applied Economic Research, Jan 2018 - Apr 2019</small>
 
