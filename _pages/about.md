@@ -18,7 +18,7 @@ header:
 
 
 # Education
-<i class="fas fa-graduation-cap"></i> M.Sc. Economics<br/><small>
+<i class="fas fa-graduation-cap"></i> M.Sc. Economics - PhD oriented<br/><small>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Tuebingen, 2019</small>
 
 <i class="fas fa-graduation-cap"></i> B.Sc. Economics<br/>
