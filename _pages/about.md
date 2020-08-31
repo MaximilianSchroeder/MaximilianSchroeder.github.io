@@ -18,6 +18,9 @@ header:
 
 
 # Education
+<i class="fas fa-graduation-cap"></i> PhD Candidate<br/><small>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; BI Oslo, 2020</small>
+
 <i class="fas fa-graduation-cap"></i> M.Sc. Economics - PhD oriented<br/><small>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Tuebingen, 2019</small>
 
@@ -28,7 +31,7 @@ header:
 <small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Valparaiso University (IN), 2016</small>
 
 # Work Experience
-<i class="fas fa-briefcase"></i> Monetary Policy Analyst - Monetary Policy Strategy <br/><small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; European Central Bank, May 2020 - present</small>
+<i class="fas fa-briefcase"></i> Monetary Policy Analyst - Monetary Policy Strategy <br/><small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; European Central Bank, May 2020 - August 2020 present</small>
 
 <i class="fas fa-briefcase"></i> Trainee - Monetary Policy Strategy <br/><small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; European Central Bank, May 2019 - April 2020</small>
 
