@@ -19,7 +19,7 @@ header:
 
 # Education
 <i class="fas fa-graduation-cap"></i> PhD Candidate<br/><small>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; BI Oslo, 2020</small>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; BI Oslo, ongoing</small>
 
 <i class="fas fa-graduation-cap"></i> M.Sc. Economics - PhD oriented<br/><small>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Tuebingen, 2019</small>
