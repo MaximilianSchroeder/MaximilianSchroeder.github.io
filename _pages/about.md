@@ -68,7 +68,7 @@ header:
 
 # Refereeing Activity
 
-<i class="fas fa-chevron-right"></i> Latin American Economic Review (LAER) <br/>
+* Latin American Economic Review (LAER) <br/>
 
 
   <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
