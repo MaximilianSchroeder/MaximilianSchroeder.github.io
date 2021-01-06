@@ -68,7 +68,7 @@ header:
 # Teaching
 ## Teaching Assistance
 * Causality, Machine Learning, and Forecasting <br/>
-<small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Handelshøyskolen BI Oslo, Spring 2021</small>
+<small> Handelshøyskolen BI Oslo, Spring 2021</small>
 
 # Refereeing Activity
 
