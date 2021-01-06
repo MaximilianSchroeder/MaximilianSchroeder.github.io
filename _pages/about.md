@@ -67,7 +67,7 @@ header:
 
 # Teaching
 ## Teaching Assistance
-* Causality, Machine Learning, and Forecasting <br/>
+* BSc Business Analytics - Causality, Machine Learning and Forecasting <br/>
 <small> Handelshøyskolen BI Oslo, Spring 2021</small>
 
 # Refereeing Activity
