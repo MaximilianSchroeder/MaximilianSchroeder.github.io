@@ -30,7 +30,7 @@ header:
 <i class="fas fa-graduation-cap"></i> Exchange Semester<br/>
 <small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Valparaiso University (IN), 2016</small>
 
-# Work Experience
+# Professional Experience
 <i class="fas fa-briefcase"></i> PhD Candidate, Centre for Applied Macroeconomics and Commodity Prices (CAMP) <br/><small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Handelshøyskolen BI Oslo, August 2020 - present </small>
 
 <i class="fas fa-briefcase"></i> Monetary Policy Analyst - Monetary Policy Strategy <br/><small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; European Central Bank, May 2020 - August 2020 </small>
@@ -64,5 +64,11 @@ header:
 
 <i class="fas fa-graduation-cap"></i> Complexity and the Economy <br/>
 <small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Tuebingen, 2017</small>
+
+
+# Refereeing Activity
+
+<i class="fas fa-chevron-right"></i> Latin American Economic Review (LAER) <br/>
+
 
   <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
