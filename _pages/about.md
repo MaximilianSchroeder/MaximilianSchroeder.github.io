@@ -18,7 +18,7 @@ header:
 
 
 # Education
-<i class="fas fa-graduation-cap"></i> PhD Candidate, Centre for Applied Macroeconomics and Commodity Prices (CAMP) <br/><small>
+<i class="fas fa-graduation-cap"></i> PhD Candidate, Centre for Applied Macroeconomics and <br/><small> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Commodity Prices (CAMP) <br/><small>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Handelshøyskolen BI Oslo, ongoing</small>
 
 <i class="fas fa-graduation-cap"></i> M.Sc. Economics - PhD oriented<br/><small>
@@ -67,7 +67,7 @@ header:
 
 # Teaching
 ## Teaching Assistance
-* Causality, Machine Learning and Forecasting (Spring 2021)
+* Causality, Machine Learning, and Forecasting (Spring 2021)
 
 # Refereeing Activity
 
