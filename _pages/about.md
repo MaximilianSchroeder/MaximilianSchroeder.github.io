@@ -19,7 +19,9 @@ header:
 
 # Education
 <i class="fas fa-graduation-cap"></i> PhD Candidate, Centre for Applied Macroeconomics and <br/>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Commodity Prices (CAMP) <br/><small>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Handelshøyskolen BI Oslo, ongoing</small>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Handelshøyskolen BI Oslo, ongoing
+<br/>Advisors - [Leif Anders Thorsrud](http://home.bi.no/a1010297/), [Dimitris Korobilis](https://sites.google.com/site/dimitriskorobilis/cv)
+</small>
 
 <i class="fas fa-graduation-cap"></i> M.Sc. Economics - PhD oriented<br/><small>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Tuebingen, 2019</small>
