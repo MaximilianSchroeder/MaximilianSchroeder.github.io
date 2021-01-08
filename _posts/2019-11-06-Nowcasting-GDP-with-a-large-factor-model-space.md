@@ -19,7 +19,7 @@ categories: [Working Paper]
 
 <button class="btn"> <a href="/assets/codes/Lecture_1.ipynb"><i class="fa fa-download"></i> Download </a> </button>
 
-<a href="/images/myw3schoolsimage.jpg" download="download"></a>
+<a href="/assets/codes/Lecture_1.ipynb" download="download"></a>
 
 <!--
 [Link button](http://example.com/){: .btn .btn-blue }
