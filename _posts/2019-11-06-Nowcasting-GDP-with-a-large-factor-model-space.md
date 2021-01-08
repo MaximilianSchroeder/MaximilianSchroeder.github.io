@@ -12,14 +12,15 @@ categories: [Working Paper]
 [PDF](/assets/pdfs/Bundesbank_Discussion_Paper.pdf)
 <!--
 <a href="/assets/codes/Lecture_1.ipynb">Download File</a>
--->
+
 <button type="button" name="button" class="btn"><a href="/assets/codes/Lecture_1.ipynb">Download File</a></button>
 
 <button class="btn"><i class="fa fa-download"></i> Download</button>
 
 <button class="btn"> <a href="/assets/codes/Lecture_1.ipynb"><i class="fa fa-download"></i> Download </a> </button>
+-->
 
-<a href="/assets/codes/Lecture_1.ipynb"><button  background-color="DodgerBlue" class="btn"><i class="fa fa-download"></i> Download</button></a>
+<a href="/assets/codes/Lecture_1.ipynb"><button class="btn" background-color="DodgerBlue" ><i class="fa fa-download"></i> Download</button></a>
 
 <!--
 [Link button](http://example.com/){: .btn .btn-blue }
