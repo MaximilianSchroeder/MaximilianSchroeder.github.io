@@ -13,8 +13,9 @@ categories: [Working Paper]
 <!--
 <a href="/assets/codes/Lecture_1.ipynb">Download File</a>
 -->
-<button type="button" name="button" class="btn"><a href="/assets/codes/Lecture_1.ipynb">Download File</a></button>{: .btn .btn-blue }
+<button type="button" name="button" class="btn"><a href="/assets/codes/Lecture_1.ipynb">Download File</a></button>
 
+<button class="btn"><i class="fa fa-download"></i> Download</button>
 <!--
 [Link button](http://example.com/){: .btn .btn-blue }
 -->
