@@ -22,7 +22,7 @@ categories: [Working Paper]
 
 -->
 
-<a href="/assets/codes/Lecture_1.ipynb"><button class="btn" style="backgroundColor:DodgerBlue" ><i class="fa fa-download"></i> Download</button></a>
+<a href="/assets/codes/Lecture_1.ipynb"><button class="btn" style="background-color:DodgerBlue" ><i class="fa fa-download"></i> Download</button></a>
 
 <!--
 [Link button](http://example.com/){: .btn .btn-blue }
