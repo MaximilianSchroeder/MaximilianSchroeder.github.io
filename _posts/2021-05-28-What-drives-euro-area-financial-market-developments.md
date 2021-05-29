@@ -9,7 +9,7 @@ categories: [Working Paper]
 [Arthur Saint Guilhem](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3920463),
 [Maximilian Schröder](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3737565), and [Ine Van Robays](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=615552)
 
-[Bundesbank Discussion Paper 41/2019](https://www.bundesbank.de/de/bundesbank/forschung/forschungszentrum/diskussionspapiere)
+[ECB Working Paper Series](https://www.ecb.europa.eu/pub/research/working-papers/html/index.en.html)
 
 [PDF](https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2560~f98f3c7d78.en.pdf?557af6dae576cddfaffba73700e7f6b7)
 
