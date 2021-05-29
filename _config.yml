@@ -110,7 +110,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Maximilian Schröder/Schroeder/Schroder"
+  name             : "Maximilian Schröder/Schroeder"
   avatar           : "assets/images/bio.jpg"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              :
   location         : "Oslo (Norway)"
