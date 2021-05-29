@@ -5,7 +5,7 @@ permalink: /about/
 author_profile: true
 toc: true
 header:
-  image: assets/images/night.jpg
+  image: assets/images/OSLOKolsastoppen.jpg
 ---
 
 # Interests
