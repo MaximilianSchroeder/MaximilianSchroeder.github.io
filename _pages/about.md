@@ -30,7 +30,7 @@ header:
 <small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Tuebingen, 2016</small>
 
 <i class="fas fa-graduation-cap"></i> Exchange Semester<br/>
-<small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Valparaiso University (IN), 2016</small>
+<small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Valparaiso University (IN), 2015</small>
 
 # Professional Experience
 <i class="fas fa-briefcase"></i> PhD Candidate, Centre for Applied Macroeconomics and <br/>  &nbsp;&nbsp;&nbsp;&nbsp; Commodity Prices (CAMP) <br/><small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Handelshøyskolen BI Oslo, August 2020 - present </small>
