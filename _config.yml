@@ -22,7 +22,7 @@ locale                   : "en-US"
 title                    : "Maximilian Schröder"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Maximilian Schröder/Schroeder" 
+name                     : "Maximilian Schröder/Schroeder"
 description              : "Data Science Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -110,7 +110,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Maximilian Schroeder"
+  name             : "Maximilian Schröder/Schroeder/Schroder"
   avatar           : "assets/images/bio.jpg"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              :
   location         : "Oslo (Norway)"
