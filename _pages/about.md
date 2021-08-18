@@ -33,7 +33,7 @@ header:
 <small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Valparaiso University (IN), 2015</small>
 
 # Professional Experience
-<i class="fas fa-briefcase"></i> PhD Student - Pengepolitikk (Monetary Policy) <br/>
+<i class="fas fa-briefcase"></i> PhD Student - Monetary Policy <br/>
 <small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Norges Bank, August 2021 - present </small>
 
 <i class="fas fa-briefcase"></i> PhD Candidate - Centre for Applied Macroeconomics and <br/>  &nbsp;&nbsp;&nbsp;&nbsp; Commodity Prices (CAMP) <br/><small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Handelshøyskolen BI Oslo, August 2020 - present </small>
