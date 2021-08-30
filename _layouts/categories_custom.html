@@ -14,8 +14,8 @@ layout: archive_custom
 <ul class="taxonomy__index">
   {% for i in (1..categories_max) reversed %}
     {% for category in site.categories %}
-     {% if categoryy[0] != "Tutorials" %}
       {% if category[1].size == i %}
+       {% if categoryy[0] != "Tutorials" %}
         <li>
           <a href="#{{ category[0] | slugify }}">
             <strong>{{ category[0] }}</strong> <span class="taxonomy__count">{{ i }}</span>
@@ -29,8 +29,8 @@ layout: archive_custom
 
 {% for i in (1..categories_max) reversed %}
   {% for category in site.categories %}
-    {% if categoryy[0] != "Tutorials" %}
      {% if category[1].size == i %}
+       {% if categoryy[0] != "Tutorials" %}
       <section id="{{ category[0] | slugify | downcase }}" class="taxonomy__section">
         <h2 class="archive__subtitle">{{ category[0] }}</h2>
         <div class="entries-{{ page.entries_layout | default: 'list' }}">
