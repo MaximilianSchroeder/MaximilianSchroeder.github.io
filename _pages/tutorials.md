@@ -1,6 +1,6 @@
 ---
 layout: category
-taxonomy: tutorials
+taxonomy: Tutorials
 title: "Tutorials"
 permalink: /tutorials/
 author_profile: true
