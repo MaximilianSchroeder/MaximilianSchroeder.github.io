@@ -1,5 +1,5 @@
 ---
-layout: collection
+layout: categories
 taxonomy: Tutorials
 title: "Tutorials"
 permalink: /tutorials/
