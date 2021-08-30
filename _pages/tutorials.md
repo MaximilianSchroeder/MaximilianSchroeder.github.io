@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: collection
 taxonomy: Tutorials
 title: "Tutorials"
 permalink: /tutorials/
@@ -8,6 +8,3 @@ toc: true
 header:
   image: assets/images/OSLOKolsastoppen.jpg
 ---
-
-
-fg
