@@ -75,7 +75,7 @@ To make things a little more interesting, suppose we are interested in scraping 
 <br>
 
 
-![alt text](/assets/images/Inspect3.JPG)
+![alt text](/assets/images/Inspect3.JPG "inspecting a website")
 
 
 
@@ -84,16 +84,7 @@ To make things a little more interesting, suppose we are interested in scraping 
 I am using Firefox here, but the same works with other browsers. As we can see, the table content is enclosed by the HTML tag pair `<tbody>` `</tbody>`. Hovering around with the mouse, we can see that the first table row is contained in the first `<tr>` `</tr>` tag pair. Within the first row, the different columns are enclosed in `<td>` `</td>` tag pairs. While columns with numerical values or plain text appear directly between the `<td>` `</td>` tags, links such as company names are enclosed in `<a>` `</a>` tags.
 
 
-```python
-#<img src="Inspect2_1.JPG">
-Image("Inspect2_1.JPG")
-```
-
-
-
-
-
-![jpeg](output_7_0.jpg)
+![alt text](/assets/images/Inspect2_1.JPG "inspecting the first column")
 
 
 
@@ -173,16 +164,7 @@ We could now navigate through the parse tree by hand, identify our elements of i
 `xpath` is a so-called query language. With its help, we can easily jump directly to relevant branches in our tree. The neat thing is that the inspect tool in browsers like firefox, hands the relevant xpath directly to us. Simply right-clicking the `tbody` element, navigating to "copy" and selecting "xpath", copies the `xpath` to the clip board.
 
 
-```python
-#<img src="Inspect3_1.JPG">
-Image("Inspect3_1.JPG")
-```
-
-
-
-
-
-![jpeg](output_15_0.jpg)
+![alt text](/assets/images/Inspect3_1.JPG "copying the xpath")
 
 
 
