@@ -164,7 +164,7 @@ We could now navigate through the parse tree by hand, identify our elements of i
 `xpath` is a so-called query language. With its help, we can easily jump directly to relevant branches in our tree. The neat thing is that the inspect tool in browsers like firefox, hands the relevant xpath directly to us. Simply right-clicking the `tbody` element, navigating to "copy" and selecting "xpath", copies the `xpath` to the clip board.
 
 
-![alt text](/assets/images/Inspect3_1.JPG "copying the xpath")
+![alt text](/assets/images/Inspect3_1.jpg "copying the xpath")
 
 
 
@@ -460,7 +460,7 @@ pd.to_numeric(fortune500.revenue.str.replace(',','')).plot.hist(alpha=0.6)
 
 
 
-![png](output_31_1.png)
+![alt text](/assets/images/revenue_distribution.png "revenue distribution")
 
 
 
