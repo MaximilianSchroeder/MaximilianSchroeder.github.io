@@ -1,5 +1,5 @@
 ---
-layout: categories_custom
+layout: category_custom
 taxonomy: Working Paper
 title: "Research"
 permalink: /research/
