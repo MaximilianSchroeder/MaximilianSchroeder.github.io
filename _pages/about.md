@@ -72,14 +72,15 @@ header:
 
 # Teaching
 ## Teaching Assistance
-* BSc - Causality, Machine Learning and Forecasting <br/>
-<small> Handelshøyskolen BI Oslo, Spring 2021</small>
 
 * BSc - Data Analysis with Programming <br/>
 <small> Handelshøyskolen BI Oslo, Fall 2021</small>
 
 * MSc - International Macroeconomics and Finance <br/>
 <small> Handelshøyskolen BI Oslo, Fall 2021</small>
+
+* BSc - Causality, Machine Learning and Forecasting <br/>
+<small> Handelshøyskolen BI Oslo, Spring 2021</small>
 
 # Refereeing Activity
 
