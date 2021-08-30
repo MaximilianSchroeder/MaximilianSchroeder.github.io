@@ -1,5 +1,6 @@
 ---
 layout: categories_custom
+taxonomy: Working Paper
 title: "Research"
 permalink: /research/
 header:
