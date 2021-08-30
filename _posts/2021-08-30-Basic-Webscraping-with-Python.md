@@ -75,7 +75,7 @@ To make things a little more interesting, suppose we are interested in scraping 
 <br>
 
 
-![alt text](assets/images/Inspect3.jpg)
+![alt text](assets/images/Inspect3.JPG)
 
 
 
