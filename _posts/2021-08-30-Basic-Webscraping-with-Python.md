@@ -75,17 +75,7 @@ To make things a little more interesting, suppose we are interested in scraping 
 <br>
 
 
-```python
-#<img src="Inspect3.JPG">
-from IPython.display import Image
-Image("Inspect3.JPG")
-```
-
-
-
-
-
-![jpeg](output_5_0.jpg)
+![alt text](assets/images/Inspect3.jpg)
 
 
 
