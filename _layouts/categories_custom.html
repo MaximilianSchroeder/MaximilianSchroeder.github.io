@@ -14,6 +14,7 @@ layout: archive_custom
 <ul class="taxonomy__index">
   {% for i in (1..categories_max) reversed %}
     {% for category in site.categories %}
+    {% if category[0] == "Working Paper" %}
       {% if category[1].size == i %}
         <li>
           <a href="#{{ category[0] | slugify }}">
@@ -27,6 +28,7 @@ layout: archive_custom
 
 {% for i in (1..categories_max) reversed %}
   {% for category in site.categories %}
+  {% if category[0] == "Working Paper" %}
     {% if category[1].size == i %}
       <section id="{{ category[0] | slugify | downcase }}" class="taxonomy__section">
         <h2 class="archive__subtitle">{{ category[0] }}</h2>
