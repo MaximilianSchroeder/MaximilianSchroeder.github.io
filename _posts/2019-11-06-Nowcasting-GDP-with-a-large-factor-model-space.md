@@ -1,15 +1,15 @@
 ---
-title: "Nowcasting GDP with a large factor model space"
-date: 2019-11-06
+title: "Nowcasting GDP with a pool of factor models and a fast estimation algorithm"
+date: 2022-08-23
 tags: [Dynamic factor model, forecasting, GDP, mixed-frequency, model averaging, time-varying-parameter]
 excerpt: "Dynamic factor model, forecasting, GDP, mixed-frequency, model averaging, time-varying-parameter"
-categories: [Working Paper]
+categories: [Published Article]
 ---
 [Sercan Eraslan](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2364853) and [Maximilian Schröder](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3737565)
 
-[Bundesbank Discussion Paper 41/2019](https://www.bundesbank.de/de/bundesbank/forschung/forschungszentrum/diskussionspapiere)
+[International Journal of Forecasting](https://www.sciencedirect.com/science/article/pii/S0169207022001078)
 
-[PDF](/assets/pdfs/Bundesbank_Discussion_Paper.pdf)
+[Published Version](/assets/pdfs/paper.pdf) [Bundesbank Discussion Paper 41/2019](/assets/pdfs/Bundesbank_Discussion_Paper.pdf)
 
 <!--
 
@@ -21,4 +21,4 @@ categories: [Working Paper]
 
 
 # Abstract
-We propose a novel time-varying parameters mixed-frequency dynamic factor model which is integrated into a dynamic model averaging framework for macroeconomic nowcasting. Our suggested model can efficiently deal with the nature of the real-time data  ow as well as parameter uncertainty and time-varying volatility. In addition, we develop a fast estimation algorithm. This enables us to generate nowcasts based on a large factor model space. We apply the suggested framework to nowcast German GDP. Our recursive out-of-sample forecast evaluation results reveal that our framework is able to generate forecasts superior to those obtained from a naive and more competitive benchmark models. These forecast gains seem to emerge especially during unstable periods, such as the Great Recession, but also remain over more tranquil periods.
+We propose a novel mixed-frequency dynamic factor model with time-varying parameters and stochastic volatility for macroeconomic nowcasting and develop a fast estimation algorithm. This enables us to generate forecast densities based on a large space of factor models. We apply our framework to nowcast US GDP growth in real time. Our results reveal that stochastic volatility seems to improve the accuracy of point forecasts the most, compared to the constant-parameter factor model. These gains are most prominent during unstable periods such as the Covid-19 pandemic. Finally, we highlight indicators driving the US GDP growth forecasts and associated downside risks in real time.
