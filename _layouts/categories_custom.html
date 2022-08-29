@@ -4,7 +4,7 @@ layout: archive_custom
 
 {{ content }}
 
-{% assign categories_max = 0 %}
+{% assign categories_max = 1 %}
 {% for category in site.categories %}
   {% if category[1].size > categories_max %}
     {% assign categories_max = category[1].size %}
