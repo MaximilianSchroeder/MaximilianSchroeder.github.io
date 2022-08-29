@@ -9,7 +9,7 @@ categories: [Published Articles]
 
 [International Journal of Forecasting](https://www.sciencedirect.com/science/article/pii/S0169207022001078)
 
-[PDF Published Version](/assets/pdfs/paper.pdf)
+[PDF Published Version (forthcoming)](/assets/pdfs/paper.pdf)
 [PDF Bundesbank Discussion Paper 41/2019](/assets/pdfs/Bundesbank_Discussion_Paper.pdf)
 
 <!--
