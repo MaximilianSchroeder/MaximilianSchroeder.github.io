@@ -1,6 +1,6 @@
 ---
 layout: categories_custom
-taxonomy: Working Paper, Published Article
+taxonomy: [Working Paper, Published Article]
 title: "Research"
 permalink: /research/
 header:
