@@ -1,5 +1,5 @@
 ---
-title: "Nowcasting GDP with a pool of factor models and a fast estimation algorithm"
+title: "Nowcasting GDP with a pool of factor models and a fast estimation algorithm (forthcoming)"
 date: 2022-08-23
 tags: [Dynamic factor model, forecasting, GDP, mixed-frequency, model averaging, time-varying-parameter]
 excerpt: "Dynamic factor model, forecasting, GDP, mixed-frequency, model averaging, time-varying-parameter"
