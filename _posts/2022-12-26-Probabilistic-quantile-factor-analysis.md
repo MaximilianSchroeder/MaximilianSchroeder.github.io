@@ -1,7 +1,7 @@
 ---
 title: "Probabilistic quantile factor analysis"
 date: 2022-12-26
-tags: [International transmission, financial conditions, monetary policy, large-scale asset purchases, high-frequency identification]
+tags: [variational Bayes, penalized factors, quantile regression]
 excerpt: "variational Bayes, penalized factors, quantile regression."
 categories: [Working Paper]
 ---
