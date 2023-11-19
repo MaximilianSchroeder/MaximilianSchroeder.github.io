@@ -8,7 +8,7 @@ header:
   image: assets/images/OSLOKolsastoppen.jpg
 ---
 
-# Interests
+# Research Interests
 * Applied Macroeconomics
 * Time-Series Econometrics
 * Machine Learning
@@ -16,7 +16,7 @@ header:
 
 # Education
 <i class="fas fa-graduation-cap"></i> PhD Candidate - Centre for Applied Macroeconomics and <br/>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Commodity Prices (CAMP) <br/><small>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Handelshøyskolen BI Oslo, ongoing
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Handelshøyskolen BI Oslo, expected completion 2024
 <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advisors - [Leif Anders Thorsrud](http://home.bi.no/a1010297/) & [Dimitris Korobilis](https://sites.google.com/site/dimitriskorobilis/home-1)
 </small>
 
@@ -29,23 +29,26 @@ header:
 <i class="fas fa-graduation-cap"></i> Exchange Semester<br/>
 <small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Valparaiso University (IN), 2015</small>
 
+
+
 # Professional Experience
+## Central Bank Experience
 <i class="fas fa-briefcase"></i> PhD Student - Monetary Policy <br/>
 <small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Norges Bank, August 2021 - present </small>
-
-<i class="fas fa-briefcase"></i> PhD Candidate - Centre for Applied Macroeconomics and <br/>  &nbsp;&nbsp;&nbsp;&nbsp; Commodity Prices (CAMP) <br/><small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Handelshøyskolen BI Oslo, August 2020 - present </small>
 
 <i class="fas fa-briefcase"></i> Monetary Policy Analyst - Monetary Policy Strategy <br/><small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; European Central Bank, May 2020 - August 2020 </small>
 
 <i class="fas fa-briefcase"></i> Trainee - Monetary Policy Strategy <br/><small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; European Central Bank, May 2019 - April 2020</small>
 
-<i class="fas fa-briefcase"></i> Research Assistant  <br/><small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Institute for Applied Economic Research, Jan 2018 - Apr 2019</small>
-
 <i class="fas fa-briefcase"></i> Master's Thesis Intern - Economics Department <br/><small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Deutsche Bundesbank, Oct 2018 - Dec 2018</small>
 
-<i class="fas fa-briefcase"></i> Research Assistant - Chair of Econometrics <br/><small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Tuebingen, Feb 2018 - Aug 2019</small>
-
 <i class="fas fa-briefcase"></i> Intern - Research Department <br/><small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Deutsche Bundesbank, Sep 2017 - Dec 2017</small>
+
+
+## Research Assistance
+<i class="fas fa-briefcase"></i> Research Assistant  <br/><small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Institute for Applied Economic Research, Jan 2018 - Apr 2019</small>
+
+<i class="fas fa-briefcase"></i> Research Assistant - Chair of Econometrics <br/><small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Tuebingen, Feb 2018 - Aug 2019</small>
 
 <i class="fas fa-briefcase"></i> Research Assistant  <br/><small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Institute for Applied Economic Research, Nov 2016 - Aug 2017</small>
 
