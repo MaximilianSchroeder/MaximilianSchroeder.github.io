@@ -17,13 +17,13 @@ header:
 # Education
 <i class="fas fa-graduation-cap"></i> PhD Candidate - Centre for Applied Macroeconomics and <br/>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Commodity Prices (CAMP) <br/><small>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Handelshøyskolen BI Oslo, expected completion 2024
-<br/><small>
+<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Title: Modeling Macroeconomic Uncertainty and its Drivers
-<br/><small>
+<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advisors - [Leif Anders Thorsrud](https://www.bi.no/om-bi/ansatte/institutt-for-samfunnsokonomi/leif-anders-thorsrud/) & [Dimitris Korobilis](https://sites.google.com/site/dimitriskorobilis/home-1)
-<br/><small>
+<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Committee: Hilde Bjørnland (BI), Silvia Miranda-Agrippino (Federal Reserve Bank of New York)
-<br/><small>
+<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pre-doc examination passed in June 2023
 </small>
 
