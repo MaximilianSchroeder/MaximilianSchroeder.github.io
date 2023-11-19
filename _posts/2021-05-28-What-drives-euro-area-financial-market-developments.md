@@ -3,7 +3,7 @@ title: "What drives euro area financial market developments? The role of US spil
 date: 2021-05-28
 tags: [International transmission, financial conditions, monetary policy, large-scale asset purchases, high-frequency identification]
 excerpt: "International transmission, financial conditions, monetary policy, large-scale asset purchases, high-frequency identification."
-categories: [Working Paper]
+categories: [Published Articles]
 ---
 [Lennart Brandt](),
 [Arthur Saint Guilhem](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3920463),
