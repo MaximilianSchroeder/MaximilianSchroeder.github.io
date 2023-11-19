@@ -15,17 +15,8 @@ My research interests include Applied Macroeconomics, Time-Series Econometrics, 
 
 <!-- Added if statement to make only certain category appear. -->
 
-<br/> 
-# Job Market Paper
 
 {% for category in site.categories %}
-{% if category[0] == "Published Articles" %}
-  <h3>{{ category[0] }}</h3>
-  <ul>
-    {% for post in category[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-      {% endif %}
 
 {% if category[0] == "Working Paper" %}
   <h3>{{ category[0] }}</h3>
@@ -34,5 +25,13 @@ My research interests include Applied Macroeconomics, Time-Series Econometrics, 
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
       {% endif %}
+
+{% if category[0] == "Published Articles" %}
+  <h3>{{ category[0] }}</h3>
+  <ul>
+    {% for post in category[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+    {% endif %}
   </ul>
 {% endfor %}
