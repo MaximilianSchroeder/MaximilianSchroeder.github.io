@@ -20,7 +20,7 @@ header:
 <br/><small>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Title: Modeling Macroeconomic Uncertainty and its Drivers
 <br/><small>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advisors - [Leif Anders Thorsrud](http://home.bi.no/a1010297/) & [Dimitris Korobilis](https://sites.google.com/site/dimitriskorobilis/home-1)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advisors - [Leif Anders Thorsrud](https://www.bi.no/om-bi/ansatte/institutt-for-samfunnsokonomi/leif-anders-thorsrud/) & [Dimitris Korobilis](https://sites.google.com/site/dimitriskorobilis/home-1)
 <br/><small>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Committee: Hilde Bjørnland (BI), Silvia Miranda-Agrippino (Federal Reserve Bank of New York)
 <br/><small>
@@ -63,19 +63,13 @@ header:
 
 <i class="fas fa-briefcase"></i> Intern  <br/><small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Institute for Applied Economic Research, Aug 2016 - Oct 2016</small>
 
-# Training
 
-<i class="fas fa-graduation-cap"></i> Workshop on Forecasting - with Allan Timmerman <br/>
-<small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Deutsche Bundesbank, 2017</small>
 
-<i class="fas fa-graduation-cap"></i> Research Visit <br/>
-<small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kiel Institute for the World Economy, 2017</small>
 
-<i class="fas fa-graduation-cap"></i> Workshop on Forecasting <br/>
-<small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Deutsche Bundesbank, 2017</small>
 
-<i class="fas fa-graduation-cap"></i> Complexity and the Economy <br/>
-<small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Tuebingen, 2017</small>
+
+
+
 
 # Teaching
 ## Teaching Assistance
@@ -111,6 +105,35 @@ and Financial Time Series  <br/>
 * Latin American Economic Review <br/>
 
 * Journal of Economics and Finance <br/>
+
+# Conferences
+
+### 2023 
+Junior Workshop in Econometrics and Applied Economics, Rome; 3rd Sailing the Macro
+Workshop, Siracusa; ESOBE 2023, Glasgow; IAAE Annual Conference 2023, Oslo ; 3rd
+Dolomiti Macro Meetings, San Candido; 27th International Conference on Macroeconomic
+Analysis and International Finance, Rethymno; SNDE Symposium 2023, Orlando.
+
+### 2022
+Advances in alternative data and machine learning for macroeconomics and finance, Paris;
+Workshop on Recent Advances in Econometrics, Glasgow.
+
+### 2019
+Third Research Conference of the CEPR Network on Macroeconomic Modelling, Frankfurt
+
+# Training
+
+<i class="fas fa-graduation-cap"></i> Workshop on Forecasting - with Allan Timmerman <br/>
+<small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Deutsche Bundesbank, 2017</small>
+
+<i class="fas fa-graduation-cap"></i> Research Visit <br/>
+<small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kiel Institute for the World Economy, 2017</small>
+
+<i class="fas fa-graduation-cap"></i> Workshop on Forecasting <br/>
+<small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Deutsche Bundesbank, 2017</small>
+
+<i class="fas fa-graduation-cap"></i> Complexity and the Economy <br/>
+<small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Tuebingen, 2017</small>
 
 
   <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
