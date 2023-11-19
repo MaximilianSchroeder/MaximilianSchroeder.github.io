@@ -108,17 +108,17 @@ and Financial Time Series  <br/>
 
 # Conferences
 
-### 2023 
+## 2023 
 Junior Workshop in Econometrics and Applied Economics, Rome; 3rd Sailing the Macro
 Workshop, Siracusa; ESOBE 2023, Glasgow; IAAE Annual Conference 2023, Oslo ; 3rd
 Dolomiti Macro Meetings, San Candido; 27th International Conference on Macroeconomic
 Analysis and International Finance, Rethymno; SNDE Symposium 2023, Orlando.
 
-### 2022
+## 2022
 Advances in alternative data and machine learning for macroeconomics and finance, Paris;
 Workshop on Recent Advances in Econometrics, Glasgow.
 
-### 2019
+## 2019
 Third Research Conference of the CEPR Network on Macroeconomic Modelling, Frankfurt
 
 # Training
