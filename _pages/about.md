@@ -73,6 +73,10 @@ header:
 # Teaching
 ## Teaching Assistance
 
+* PhD - Advanced Summer School 2023: Bayesian Machine Learning Methods for Modelling Macroeconomic
+and Financial Time Series  <br/>
+<small> University of Crete, July 2023</small>
+
 * BSc - Data Analysis with Programming <br/>
 <small> Handelshøyskolen BI Oslo, Fall 2021</small>
 
