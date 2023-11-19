@@ -33,7 +33,7 @@ header:
 
 # Professional Experience
 ## Central Bank Experience
-<i class="fas fa-briefcase"></i> PhD Student - Monetary Policy <br/>
+<i class="fas fa-briefcase"></i> Intern - Monetary Policy <br/>
 <small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Norges Bank, August 2021 - present </small>
 
 <i class="fas fa-briefcase"></i> Monetary Policy Analyst - Monetary Policy Strategy <br/><small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; European Central Bank, May 2020 - August 2020 </small>
