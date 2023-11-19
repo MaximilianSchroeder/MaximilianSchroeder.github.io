@@ -9,12 +9,9 @@ header:
 ---
 
 # Interests
-* Macroeconometrics
-* Forecasting
-* Structural Analysis
-* Monetary Policy
-* High-Dimensional Models
-* Macroeconomic Uncertainty
+* Applied Macroeconomics
+* Time-Series Econometrics
+* Machine Learning
 
 
 # Education
