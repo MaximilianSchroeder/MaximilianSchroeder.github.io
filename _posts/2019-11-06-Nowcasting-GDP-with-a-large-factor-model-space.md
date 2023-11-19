@@ -1,5 +1,5 @@
 ---
-title: "Nowcasting GDP with a pool of factor models and a fast estimation algorithm (forthcoming)"
+title: "Nowcasting GDP with a pool of factor models and a fast estimation algorithm"
 date: 2022-08-23
 tags: [Dynamic factor model, forecasting, GDP, mixed-frequency, model averaging, time-varying-parameter]
 excerpt: "Dynamic factor model, forecasting, GDP, mixed-frequency, model averaging, time-varying-parameter"
@@ -7,9 +7,9 @@ categories: [Published Articles]
 ---
 [Sercan Eraslan](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2364853) and [Maximilian Schröder](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3737565)
 
-[International Journal of Forecasting](https://www.sciencedirect.com/science/article/pii/S0169207022001078)
+[International Journal of Forecasting](https://www.sciencedirect.com/science/article/pii/S0169207022001078?via%3Dihub)
 
-[PDF Published Version (forthcoming)](/assets/pdfs/paper.pdf)
+[PDF Published Version](/assets/pdfs/paper.pdf)
 [PDF Bundesbank Discussion Paper 41/2019](/assets/pdfs/Bundesbank_Discussion_Paper.pdf)
 
 <!--
