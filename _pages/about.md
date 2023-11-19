@@ -121,19 +121,6 @@ Workshop on Recent Advances in Econometrics, Glasgow.
 ## 2019
 Third Research Conference of the CEPR Network on Macroeconomic Modelling, Frankfurt
 
-# Training
-
-<i class="fas fa-graduation-cap"></i> Workshop on Forecasting - with Allan Timmerman <br/>
-<small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Deutsche Bundesbank, 2017</small>
-
-<i class="fas fa-graduation-cap"></i> Research Visit <br/>
-<small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kiel Institute for the World Economy, 2017</small>
-
-<i class="fas fa-graduation-cap"></i> Workshop on Forecasting <br/>
-<small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Deutsche Bundesbank, 2017</small>
-
-<i class="fas fa-graduation-cap"></i> Complexity and the Economy <br/>
-<small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University of Tuebingen, 2017</small>
 
 
   <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
