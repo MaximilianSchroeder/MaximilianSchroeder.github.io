@@ -22,7 +22,7 @@ header:
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advisors - [Leif Anders Thorsrud](https://www.bi.no/om-bi/ansatte/institutt-for-samfunnsokonomi/leif-anders-thorsrud/) & [Dimitris Korobilis](https://sites.google.com/site/dimitriskorobilis/home-1)
 <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Committee: Hilde Bjørnland (BI), Silvia Miranda-Agrippino (Federal Reserve Bank of New York)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Committee: Hilde Bjørnland (BI), Silvia Miranda-Agrippino (New York Fed)
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Pre-doc examination passed in June 2023
 </small>
