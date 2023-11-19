@@ -111,7 +111,7 @@ analytics:
 # Site Author
 author:
   name             : "Maximilian Schröder/Schroeder"
-  avatar           : "assets/images/bio.jpg"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/images/DSC03908_copy.jpg"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              :
   location         : "Oslo (Norway)"
   email            : "maximilian.schroder@bi.no"
