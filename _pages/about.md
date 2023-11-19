@@ -95,10 +95,15 @@ and Financial Time Series  <br/>
 
 # Refereeing Activity
 
-* Latin American Economic Review (LAER) <br/>
+* Journal of Applied Econometrics 
 
-* International Journal of Forecasting  <br/>
+* International Journal of Forecasting <br/>
 
-* Studies in Nonlinear Dynamics & Econometrics (SNDE)  <br/>
+* Studies in Nonlinear Dynamics & Econometrics <br/>
+
+* Latin American Economic Review <br/>
+
+* Journal of Economics and Finance <br/>
+
 
   <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
