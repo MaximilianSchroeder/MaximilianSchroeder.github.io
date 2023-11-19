@@ -75,16 +75,23 @@ header:
 
 * PhD - Advanced Summer School 2023: Bayesian Machine Learning Methods for Modelling Macroeconomic
 and Financial Time Series  <br/>
-<small> University of Crete, July 2023</small>
+<small> University of Crete</small>
+
+* MSc - Trends, Cycles, and Signal Extraction from a Macroeconomic Perspective <br/>
+<small> Handelshøyskolen BI Oslo</small>
 
 * BSc - Data Analysis with Programming <br/>
-<small> Handelshøyskolen BI Oslo, Fall 2021</small>
+<small> Handelshøyskolen BI Oslo</small>
 
 * MSc - International Macroeconomics and Finance <br/>
-<small> Handelshøyskolen BI Oslo, Fall 2021</small>
+<small> Handelshøyskolen BI Oslo</small>
 
 * BSc - Causality, Machine Learning and Forecasting <br/>
-<small> Handelshøyskolen BI Oslo, Spring 2021</small>
+<small> Handelshøyskolen BI Oslo</small>
+
+* Lab Sessions - Statistical machine learning 
+<br/>
+<small> University of Glasgow</small>
 
 # Refereeing Activity
 
